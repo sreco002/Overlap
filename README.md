@@ -21,13 +21,6 @@ Eye contact - make things move
 ***21 june***
 
 
-In the bin
-a journey under the umbrella, maybe for a next exhibition , references to the Situationist movement in opposition of surrealist
-
-Useful algorithms
-Path finder : Travelsales men strategy or Dijkstra's Algorithm 
-
-
 
 Strategy
 
@@ -47,6 +40,27 @@ Coding
 
 **TravelSales men strategy with genetic algorithm with CodingTrain** , how about using people gazing or not as a mutation factor in this strategy? 
 
+
+
+In the bin
+a journey under the umbrella, maybe for a next exhibition , references to the Situationist movement in opposition of surrealist
+Thoughts after feedback : Fail to make it interesting to curators, Too complicate and unclear outcome
+What was it?
+People will navigate under an umbrella , unseen 
+
+How does it work?
+they will listen to instructions to navigate through the exhibition
+instructions from the computer. They will also hear poems when they will be located at certain positions
+They will pass the umbrella to another person who will continue the journey
+
+What is the outcome?
+Me and the other, no Eye contact
+Eye contact only when exchanging umbrella
+Useful algorithms
+Path finder : Travelsales men strategy or Dijkstra's Algorithm 
+
+
+
 1. one
 
 
@@ -54,6 +68,8 @@ Coding
 
 
 ***7 June***
+
+Crit sessions : 
 
 What is it?
 An installation for people to connect with each other in a playful way
