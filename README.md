@@ -29,6 +29,8 @@ Investigate the problem of **Eye tracking**
 
 Documentation : start github to organise resources
 
+learn how to use github to publish research via a blog?
+
 Crit sessions : Irini Papadimitriou V&A curator for digital works ,( http://www.vam.ac.uk/blog/news-learning-department/digital-futures-e-stitches soft computing)situationist movement, stanza (http://www.stanza.co.uk/sonicity/index.html Stanza)
 Atau : investigate more in the gaze proposition in oppition to the journey under the umbrella
 my feeling : focus on the gaze state , more adapted to a degree show
