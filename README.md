@@ -1,21 +1,39 @@
 # Overlap
-*This is a display of my research for the degree exhibition Overlap
-My aim is to present an installation for people to connect with each other in a playful way
+**This is a display of my research for the degree exhibition Overlap**
+
+## What is it?
+An installation for people to connect with each other in a playful way
+
+
+## How does it work?
 If two people look at each other, an animation is created.
-They have to match each other faces in order to control the animation on the face of each other*
---
+They have to match each other faces in order to control the animation on the face of each other
+
+## What is the outcome?
+
+Eye contact - make things move
+
+
+## Diary
+
+
+
+***21 june***
+
+
 In the bin
 a journey under the umbrella, maybe for a next exhibition , references to the Situationist movement in opposition of surrealist
 
 Useful algorithms
 Path finder : Travelsales men strategy or Dijkstra's Algorithm 
 
---
+
+
 Strategy
 
 Investigate the problem of **Eye tracking**
 
-21 june
+
 Documentation : start github to organise resources
 
 Crit sessions : Irini Papadimitriou V&A curator for digital works ,( http://www.vam.ac.uk/blog/news-learning-department/digital-futures-e-stitches soft computing)situationist movement, stanza (http://www.stanza.co.uk/sonicity/index.html Stanza)
@@ -33,5 +51,22 @@ Coding
 
 
 2. two
+
+
+***7 June***
+
+What is it?
+An installation for people to connect with each other in a playful way
+
+How does it work?
+If two people look at each other, an animation is created.
+They have to match each other faces in order to control the animation on the face of each other
+
+What is the outcome?
+Eye contact - make things move
+
+Feedback from Atau
+It is like Marina Abramovich, offering her gaze to people 
+
 
 
