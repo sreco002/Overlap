@@ -18,7 +18,7 @@ Investigate the problem of **Eye tracking**
 21 june
 Documentation : start github to organise resources
 
-References : Irini Papadimitriou V&A curator for digital works , situationist movement, stanza (http://www.stanza.co.uk/sonicity/index.html Stanza)
+References : Irini Papadimitriou V&A curator for digital works ,( http://www.vam.ac.uk/blog/news-learning-department/digital-futures-e-stitches soft computing)situationist movement, stanza (http://www.stanza.co.uk/sonicity/index.html Stanza)
 
 Coding 
 
