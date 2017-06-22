@@ -7,12 +7,12 @@
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Inspirations
+## Input 
+### Activate
 
-- Bulleted
-- List
+- Look me in the eyes
+- Coding References
 
 1. Numbered
 2. List
