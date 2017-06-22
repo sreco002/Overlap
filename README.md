@@ -43,6 +43,8 @@ Coding
 
 
 In the bin
+
+
 a journey under the umbrella, maybe for a next exhibition , references to the Situationist movement in opposition of surrealist
 Thoughts after feedback : Fail to make it interesting to curators, Too complicate and unclear outcome
 What was it?
