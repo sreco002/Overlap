@@ -1,0 +1,16 @@
+<group>
+	<maxArea>15360</maxArea>
+	<squareDiff>4</squareDiff>
+<group/>
+	<threshold>120</threshold>
+<minArea>20</minArea>
+<Iris_Find>
+		<minArea>20</minArea>
+		<maxArea>15360</maxArea>
+		<squareDiff>2</squareDiff>
+		<threshold>106</threshold>
+	<lineREfVX>519</lineREfVX>
+	<lineRefVX>540</lineRefVX>
+		<lineRefVY>640</lineRefVY>
+	</Iris_Find>
+</group>
