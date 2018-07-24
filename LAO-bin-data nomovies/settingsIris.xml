@@ -1,0 +1,26 @@
+<group>
+	<maxArea>15360</maxArea>
+	<squareDiff>4</squareDiff>
+<group/>
+	<threshold>120</threshold>
+<minArea>20</minArea>
+<Iris_Find>
+		<minArea>0</minArea>
+		<maxArea>6</maxArea>
+		<squareDiff>2</squareDiff>
+		<threshold>70</threshold>
+	<lineREfVX>519</lineREfVX>
+	<lineRefVX>540</lineRefVX>
+		<lineRefVY>640</lineRefVY>
+	<toleranceX>8</toleranceX>
+	</Iris_Find>
+<Iris_Find_and_Gaze_check>
+		<toleranceX>8</toleranceX>
+		<minArea>0</minArea>
+		<maxArea>6</maxArea>
+		<threshold>70</threshold>
+		<gazeTresh>0.65</gazeTresh>
+		<checkGaze_in_sec>4</checkGaze_in_sec>
+		<blink_Rate>0.1715</blink_Rate>
+	</Iris_Find_and_Gaze_check>
+</group>
